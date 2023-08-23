@@ -1,4 +1,4 @@
-# Download Images from Google Docs Tool
+# Save Images from Google Docs Tool
 
 ## Introduction
 
